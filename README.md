@@ -29,8 +29,8 @@
 - 타이머가 종료되면 알람소리와 애니메이션 효과를 추가.
   
   : 사용한 오픈소스 라이브러리  깃허브 주소
-  => <b> https://github.com/daimajia/AndroidViewAnimations </b>
+  -> <b> https://github.com/daimajia/AndroidViewAnimations </b>
 
   안내되어있는 순서대로<b> build.gradle(:app) </b> 에 라이브러리 세팅 후, 효과를 실행시키는 YoYo 함수코드를 복붙해와서 원하는 효과를 추가하기
 
-- 알람소리 파일은 <b> res => raw => alarm.wav </b> 로 넣어둠
+- 알람소리 파일은 <b> res -> raw -> alarm.wav </b> 로 넣어둠
